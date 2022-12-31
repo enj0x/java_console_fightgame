@@ -28,12 +28,12 @@ public class Main {
 		
 		if(f2.isKo()) {
 			System.out.println("\n=====================================\n");
-			System.out.println("Sie haben gewonnen");
+			System.out.println("Sie haben gewonnen!");
 			System.out.println("\n=====================================\n");
 		}
 		else  {
 			System.out.println("\n=====================================\n");
-			System.out.println("Sie haben verloren");
+			System.out.println("Sie haben verloren!");
 			System.out.println("\n=====================================\n");
 		}
 		

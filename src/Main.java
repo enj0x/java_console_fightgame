@@ -72,7 +72,7 @@ public class Main {
 				return chooseCharacterType(name);
 			}
 		} catch(NumberFormatException ex) {
-			System.out.println("Das ist keine valide Eingabe, bitte wählen Sie zwischen Option 1 und 3");
+			System.out.println("Das ist keine valide Eingabe, bitte waehlen Sie zwischen Option 1 und 3");
 			return chooseCharacterType(name);
 		}
 		

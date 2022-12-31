@@ -165,7 +165,7 @@ public class Fighter {
 	@Override
 	public String toString() {
 		return "Fighter [name=" + name + ", characterType=" + characterType + ", hp=" + hp + ", dex=" + dex
-				+ ", attack1Dmg=" + attack1 + ", attack2Dmg=" + attack2 + ", attackSpecial=" + attackSpecial
+				+ ", attack1=" + attack1 + ", attack2=" + attack2 + ", attackSpecial=" + attackSpecial
 				+ ", specialAttackPossibilityFactor=" + specialAttackPossibilityFactor + ", specialAttackCounter="
 				+ specialAttackCounter + ", ko=" + ko + "]";
 	}

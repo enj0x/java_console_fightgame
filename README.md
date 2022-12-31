@@ -1,5 +1,5 @@
 # Java_console_fightgame
-### Entwickler: Jonas Ennter
+### Entwickler: Jonas Enter
 ### Entwicklungszeit: ca. 6 stunden
 
 ### Features

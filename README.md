@@ -1,8 +1,8 @@
 # Java_console_fightgame
-## Entwickler: Jonas Ennter
-## Entwicklungszeit: ca. 6 stunden
+### Entwickler: Jonas Ennter
+### Entwicklungszeit: ca. 6 stunden
 
-## Features
+### Features
 - Charaktererstellung für einen selber und für den Gegner. 
 - Der Gegner greift immer mit der besten Fähigkeit an, wenn möglich mit der Spezialfähigkeit.
 - Wahl zwischen 3 Charaktertypen mit verschiedenen Fähigkeitsstärken und unterschiedlichem Spezialattacken cooldown, sowie unterschiedlicher Ausweichwahrscheinlichkeit

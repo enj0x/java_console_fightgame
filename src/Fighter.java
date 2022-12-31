@@ -106,9 +106,7 @@ public class Fighter {
 		this.ko = ko;
 	}
 
-	
 
-	
 	public void attack(Fighter attacker, Fighter defender, int attackDmg, String attackType) {
 		if(defender.dodge()) {
 			System.out.println("\n" + attacker.name + " greift mit " + attackType + "attacke an: \n" + defender.name + " ist ausgewichen");
@@ -142,9 +140,7 @@ public class Fighter {
 			} else {
 				System.out.println(name +" hat " + dmg + " Schaden abbekommen (verbleibend:" + hp + "hp)");
 			}
-			
 		}
-		
 	}
 	
 	

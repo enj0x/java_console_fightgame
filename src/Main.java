@@ -42,14 +42,12 @@ public class Main {
 	
 
 	public static Fighter createFighter(String fighterNr) {
-		
 		System.out.println("\nBitte geben sie den Namen von Kaempfer " + fighterNr + " ein: ");
 		final String name = sc.nextLine();
 		return chooseCharacterType(name);
 	}
 	
 	public static Fighter chooseCharacterType (String name) {
-		
 		System.out.println("\n Bitte waehlen sie den Kaempfertyp: ");
 		System.out.println("1 -> Krieger \n"
 				+ "2 -> Bogenschuetze \n"

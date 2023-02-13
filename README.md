@@ -1,6 +1,6 @@
 # Java_console_fightgame
 ### Entwickler: Jonas Enter
-### Entwicklungszeit: ca. 5 stunden
+### Entwicklungszeit: ca. 6 stunden
 
 ### Features
 - Charaktererstellung für einen selber und für den Computer
